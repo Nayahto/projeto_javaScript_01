@@ -1,0 +1,30 @@
+{
+  "name": "projeto_javascript_01",
+  "version": "1.0.0",
+  "description": "first API with javaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayahto/projeto_javaScript_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nayahto/projeto_javaScript_01/issues"
+  },
+  "homepage": "https://github.com/Nayahto/projeto_javaScript_01#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "prettier": "^2.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
