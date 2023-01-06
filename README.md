@@ -55,10 +55,15 @@ thunderclient é uma extensao do visual studio code que serve como alternativa p
 rotas presentes na API para futuros testes
 
 '/'
+
 '/todos'
+
 '/todos/:id'
+
 '/criar'
+
 '/editar/:id'
+
 '/apagar/:id'
 
 modo de uso: é possivel utilizar a api de forma local clonando o repositorio para a sua maquina depois fazendo a instalacao de todas as dependencias com o comando $ npm init, logo depois que todas as dependencias estiverem instaladas voce pode usar o comando $ npm run dev para inicializar o projeto com o nodemon
